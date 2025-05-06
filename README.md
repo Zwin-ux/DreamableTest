@@ -1,5 +1,10 @@
 # Smart Support Agent for Inventory Management
 
+
+Test/Demo for something building with peopleeee
+
+
+
 A full-stack, demo-ready app for automating support and inventory workflows for Zenix Retail. This project is designed to showcase **No-Code/Low-Code/AI Agent** concepts for modern automation and support.
 
 ---
